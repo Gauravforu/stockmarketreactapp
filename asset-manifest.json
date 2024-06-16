@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/stockmarketreactapp/static/css/main.d3991da2.css",
+    "main.js": "/stockmarketreactapp/static/js/main.9fd56040.js",
+    "static/js/787.b5403fd4.chunk.js": "/stockmarketreactapp/static/js/787.b5403fd4.chunk.js",
+    "static/media/research.png": "/stockmarketreactapp/static/media/research.252fe69d90514c4cc9e0.png",
+    "static/media/propic.jpg": "/stockmarketreactapp/static/media/propic.cde7992cd153ffd4b527.jpg",
+    "static/media/Banner_4.jpg": "/stockmarketreactapp/static/media/Banner_4.d5eae198c91859946e7f.jpg",
+    "static/media/Banner_1.jpg": "/stockmarketreactapp/static/media/Banner_1.1eb4725734f6f1d7243e.jpg",
+    "static/media/Banner_2.jpg": "/stockmarketreactapp/static/media/Banner_2.8934ac10470a55dbf558.jpg",
+    "static/media/Banner_3.jpg": "/stockmarketreactapp/static/media/Banner_3.d2fcb759df6e75ac2736.jpg",
+    "static/media/Banner_About.jpg": "/stockmarketreactapp/static/media/Banner_About.cfabf6a95d7622403b07.jpg",
+    "static/media/ResPic.jpg": "/stockmarketreactapp/static/media/ResPic.cfabf6a95d7622403b07.jpg",
+    "static/media/graph.jpg": "/stockmarketreactapp/static/media/graph.aaa34714206b7d3977d7.jpg",
+    "static/media/candle-stick.png": "/stockmarketreactapp/static/media/candle-stick.47887c7c9d33b6f2467c.png",
+    "static/media/logo.svg": "/stockmarketreactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stockmarketreactapp/index.html",
+    "main.d3991da2.css.map": "/stockmarketreactapp/static/css/main.d3991da2.css.map",
+    "main.9fd56040.js.map": "/stockmarketreactapp/static/js/main.9fd56040.js.map",
+    "787.b5403fd4.chunk.js.map": "/stockmarketreactapp/static/js/787.b5403fd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3991da2.css",
+    "static/js/main.9fd56040.js"
+  ]
+}
