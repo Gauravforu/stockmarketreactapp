@@ -1,0 +1,41 @@
+.what{
+    position: absolute;
+    top: 1900px;
+    width: 100%;
+}
+.equity{
+    height: 250px;
+    background-color: white;
+    border-radius: 15px;
+    border-bottom: 5px black;
+    box-shadow: 0px 0px 1px 0px;
+    transition: all 0.5s;
+}
+.equity:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 6px 0px green;
+}
+.commodity{
+    height: 250px;
+    background-color: white;
+    border-radius: 15px;
+    border-bottom: 5px black;
+    box-shadow: 0px 0px 1px 0px;
+    transition: all 0.5s;
+}
+.commodity:hover{
+    transform:translateY(-5px);
+    box-shadow: 0px 0px 6px 0px green;
+}
+.management{
+    height: 250px;
+    background-color: white;
+    border-radius: 15px;
+    border-bottom: 5px black;
+    box-shadow: 0px 0px 1px 0px;
+    transition: all 0.5s; 
+}
+.management:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 6px 0px green;
+}

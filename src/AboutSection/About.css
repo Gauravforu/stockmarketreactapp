@@ -1,0 +1,33 @@
+.about{
+    position:absolute;
+    top: 640px;
+    /* margin-left: 100px; */
+    width: 100%;
+    padding: 50px 0px;
+}
+.about1{
+    position:relative;
+    
+    top: 326px;
+    padding: 50px 0px;
+}
+.about  img{
+    box-shadow: 0px 0px 5px 2px #c9c9c9;
+    border-radius: 10px;
+}
+.about1  img{
+    box-shadow: 0px 0px 5px 2px #c9c9c9;
+    border-radius: 10px;
+}
+.mission{
+    height: 200px;
+    padding: 15px 15px;
+    background-color: rgb(130, 232, 130);
+    border-radius:  15px;
+    box-shadow: 0px 0px 5px 3px #c9c9c90f;
+    border-bottom: 3px solid rgb(128, 128, 128);
+    transition: all 0.5s;
+}
+.mission:hover{
+    transform: translateY(-5px);
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.productpic{
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    
+}
+
+.secondaryproductpage{
+    position: relative;
+    top: 370px;
+    
+}
+.thirdproductpage{
+    position: relative;
+    width: 100%;
+    top: 400px;
+}
+.btn-1{
+    font-weight: 600;
+    color: gray;
+}
+.btn-1 span{
+    font-size:x-large;
+}
+.btn-1 :focus{
+ border-bottom: 2px solid orange;
+ 
+}

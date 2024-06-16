@@ -1,0 +1,41 @@
+.mainslider{
+    position:absolute;
+    
+    top: 2950px;
+    padding: 40px;
+    width: 100%;
+ 
+}
+.mainslider1{
+    position: relative;
+    margin-top: 50px;
+    padding: 40px;
+}
+.mainslider2{
+    position: relative;
+    top: 450px;
+}
+.slidersection{
+    box-shadow: 0px 0px 6px 2px gray;
+    height: 200px;
+    border-radius: 20px;
+    text-align: center;
+    transition: all 0.5s;
+}
+.slidersection p{
+    text-align: justify;
+    text-align: center;
+}
+
+.slidersection .upimage img{
+    
+    width: 70px;
+    height: 70px;
+}
+
+.slidersection:hover{
+  border-bottom: 15px green !important;
+  transform: translateY(-5px);
+  box-shadow: 0px 0px 7px 2px green;
+
+}

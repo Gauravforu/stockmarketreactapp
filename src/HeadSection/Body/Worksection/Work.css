@@ -1,0 +1,28 @@
+.work{
+    position: absolute;
+    width: 100%;
+    top: 2600px;
+}
+.work1{
+    position: relative;
+    top:380px;
+    padding: 30px 0px;
+    background-color: rgba(211, 211, 211, 0.63);
+}
+
+.workclass{
+    border-radius: 15px;
+    padding: 25px;
+    background-color: rgb(175, 231, 175);
+    box-shadow: 0px 0px 5px 2px gray;
+    height: 200px;
+    transition: all 0.5s;
+}
+.workclass p{
+    padding: 10px;
+}
+.workclass:hover{
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 6px 2px green;
+    border-bottom: 3px green;
+}

@@ -1,0 +1,45 @@
+.mainrisk{
+    position: absolute;
+    top: 3960px;
+    width: 100%;
+    padding: 40px 0px;
+}
+.mainrisk1{ 
+ position: relative;
+ padding: 40px 0px;
+}
+.mainrisk2{
+    position: relative;
+    margin-top: 550px;
+}
+.mainrisk3{
+    position: relative;
+    padding-bottom:40px ;
+    margin-top: 570px;
+    background-color: rgba(211, 211, 211, 0.67);
+}
+.risktext{
+    text-align: justify;
+}
+
+.risklow{
+    text-align: center;
+    box-shadow: 0px 0px 5px 2px gray;
+    background-color: rgb(141, 205, 141);
+    height: 140px;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+.risklow h5{
+    padding-top: 20px;
+}
+.risklow p{
+    padding-top: 15px;
+}
+
+.risklow:hover{
+  
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 6px 2px green;
+
+}

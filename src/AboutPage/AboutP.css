@@ -1,0 +1,32 @@
+.maintest{
+    position: relative;
+    width: 100%;
+    /* height: 400px !important; */
+}
+.aboutpics img{
+    top: 0px;
+    position:absolute;
+    z-index: -1;
+    width: 100%;
+}
+
+.companydetail{
+    position: relative;
+    margin-top: 320px;
+    text-align: center;
+}
+.companytext{
+    padding-top: 20px;
+    margin-top: 30px;
+    /* width: 100%; */
+    height: 200px;
+    box-shadow: 0px 0px 6px 2px gray;
+    border-radius: 30px;
+    transition: all 0.5s;
+}
+.companytext:hover{
+  
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 6px 2px green;
+    border-bottom:0px 0px 15px 0px green !important;
+}

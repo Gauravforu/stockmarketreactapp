@@ -1,0 +1,28 @@
+.whois{
+    position: absolute;
+    width: 100%;
+    top: 1500px;
+}
+.stockimg img{
+    border-radius: 20px;
+    transition: all 0.5s;
+
+}
+.stockimg img:hover{
+   transform: translateY(-5px);
+   box-shadow: 0px 0px 6px 0px green;
+}
+.whotext{
+    height: 200px;
+    background-color: rgb(124, 234, 124);
+    border-radius: 15px;
+
+    transition: all 0.5s;
+}
+.whotext:hover{
+ transform: translateY(-5px);
+ box-shadow: 0px 0px 6px 0px green;
+}
+.whotext ul li{
+    padding: 10px 0px 0px 0px;
+}

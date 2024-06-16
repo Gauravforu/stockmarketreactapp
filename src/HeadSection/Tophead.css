@@ -1,0 +1,77 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+.tophead {
+    z-index: 999 !important;
+}
+.textsection{
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 0px 5px 2px gray;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+@media only all and(max-width:990px) {
+    .tophead1{
+     display: none !important;
+    }
+}
+/* logo section starts */
+
+.headlogo{
+    position: relative;
+    padding-top: 20px;
+}
+/* logo section ends */
+
+/* middle section starts */
+.headdetail{
+    position: relative;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: 300;
+}
+.headdetail a{
+    padding: 15px;
+}
+
+.headbutton{
+    padding-top: 15px;
+    position: absolute;
+    text-align: center;
+    
+    
+}
+.headbutton ul li{
+    display: flex;
+    list-style: none;
+    
+}
+.headbutton ul li a{
+    font-size: 12px;
+    padding: 2px;
+    
+}
+.headbutton .log{
+    position: relative;
+    background: green;
+    color:white;
+    border-radius: 20px;
+    font-weight: 400;
+    width: 50px;
+    height: 25px;
+    text-decoration: none;
+    
+}
+.headbutton .sign{
+    position: relative;
+    background: red;
+    color:white;
+    border-radius: 20px;
+    text-decoration: none;
+    width: 50px;
+    height: 25px;
+    
+}

@@ -1,0 +1,11 @@
+.mark{
+
+    position:relative;
+    background-color: white;
+    /* padding-bottom: 20px; */
+    top: 475px;
+    box-shadow: 0px 0px 3px 2px  #c9c9c9;
+}
+.mark p{
+    margin-top: 5px;
+}

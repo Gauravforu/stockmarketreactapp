@@ -1,0 +1,27 @@
+.mainfooter{
+    position: absolute;
+    top: 4360px;
+    width: 100%;
+    background-color: black;
+
+}
+.mainfooter1{
+  position: relative;
+  background-color: black;
+}
+.mainfooter2{
+  position: relative;
+  background-color: black;
+  margin-top: 50px;
+}
+.mainfooter3{
+  position: relative;
+  background-color: black;
+}
+.mainfooter p,h6{
+  color: white;
+}
+
+.mainfooter ul li{
+    color: white;
+}

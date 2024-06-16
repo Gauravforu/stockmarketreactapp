@@ -1,0 +1,13 @@
+.carousel{
+    position:absolute;
+    top: 0px !important;
+    z-index: -1;
+}
+.carousel-inner img{
+    /* width: 100%; */
+}
+.carousel-caption{
+    top: 40%;
+    left: 10%;
+    text-align: left;
+}
